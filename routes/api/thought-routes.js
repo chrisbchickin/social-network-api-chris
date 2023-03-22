@@ -23,7 +23,7 @@ router.route('/:id')
 // goes to create thoughts
 router.route('/:userId').post(createThoughts);
 
-// goes to post thoughts
+// goes to post reactions
 router.route('/:thoughtId/reactions').post(addReaction);
 
 // goes to delete rections
