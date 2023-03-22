@@ -26,6 +26,8 @@
 - <a href="https://drive.google.com/file/d/1sy5yMgLcdkcK2JLNbSWmCoiu6wqqkj-Y/view">User, Thought - GET (single)</a>
 - <a href="https://drive.google.com/file/d/11m5Bd8L9-hGd0hWKpjX4yr9BBsyWQMZ5/view">Reaction, friend - POST, DELETE</a>
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/115959478/226850467-4d6cd186-be2b-4ad9-b676-d2539ee73c37.png)
 
 
 ## Credits 
